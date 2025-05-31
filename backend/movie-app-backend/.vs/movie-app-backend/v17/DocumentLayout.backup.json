@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "API\\DTO\\MovieDto.cs",
               "ToolTip": "C:\\Dev\\Coding\\.Net 9\\Core\\Movie-app\\movie-app-react\\backend\\movie-app-backend\\API\\DTO\\MovieDto.cs",
               "RelativeToolTip": "API\\DTO\\MovieDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T20:24:53.259Z",
               "EditorCaption": ""
@@ -47,8 +43,7 @@
               "RelativeToolTip": "API\\Data\\MovieDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T20:18:46.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T20:18:46.971Z"
             }
           ]
         }
