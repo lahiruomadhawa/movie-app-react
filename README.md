@@ -1,5 +1,7 @@
 # movie-app-react
 
+Get the latest changes from master brance
+
 🎬 Movie Management Web Application
 A full-stack movie management application built with ⚛️ React TypeScript frontend and 🔧 .NET Core Web API backend, featuring a 🗄️ SQLite database with Entity Framework Core.
 🎬 Features
